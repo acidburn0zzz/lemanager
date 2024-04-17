@@ -1,7 +1,7 @@
 {
   "require": {
     "monolog/monolog": "^1",
-    "swiftmailer/swiftmailer": "5.x-dev",
+    "swiftmailer/swiftmailer": "6.2.5",
     "symfony/console": "^3.0",
     "symfony/yaml": "^2.8",
     "analogic/lescript": "^0.2.2"
